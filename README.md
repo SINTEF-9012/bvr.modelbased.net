@@ -10,7 +10,7 @@ Alternatively, you can spawn off an instance of the Apache Web Server on your lo
 
 Please download the current repository.
 
-### Linux
+### Linux/MacOs
 To install the BVR update site, run the following:
 ```
 >./deploy_unix.sh
