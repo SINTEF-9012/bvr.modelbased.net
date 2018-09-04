@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/no.sintef.bvr.usite.feature.dvl.operators.dreams.wp7_1.0.0.201611101911.jar" id="no.sintef.bvr.usite.feature.dvl.operators.dreams.wp7" version="1.0.0.201611101911">
+      <category name="DREAMS WP7 Operators"/>
+   </feature>
+   <category-def name="DREAMS WP7 Operators" label="DREAMS WP7 Operators"/>
+</site>
